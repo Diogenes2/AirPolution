@@ -1,2 +1,2 @@
 # AirPolution
-A look into air pollution data
+A project for my RProgramming Course.
